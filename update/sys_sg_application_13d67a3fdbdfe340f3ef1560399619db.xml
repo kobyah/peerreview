@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description>allow employees to provide feedback on there peers</description>
+        <icon display_value="user">9bd67e3fdbdfe340f3ef1560399619ba</icon>
+        <name>Peer Review</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-05 12:56:23</sys_created_on>
+        <sys_id>13d67a3fdbdfe340f3ef1560399619db</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Peer Review</sys_name>
+        <sys_package display_value="Take5" source="x_snc_take5">48685eb7db9fe340f3ef156039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Take5">48685eb7db9fe340f3ef156039961992</sys_scope>
+        <sys_update_name>sys_sg_application_13d67a3fdbdfe340f3ef1560399619db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-10 10:07:56</sys_updated_on>
+    </sys_sg_application>
+    <sys_translated_text action="delete_multiple" query="documentkey=13d67a3fdbdfe340f3ef1560399619db"/>
+</record_update>

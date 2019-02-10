@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="emp">48677795dba3a300f3ef156039961962</item_parameter>
+        <screen display_value="list of feeds for employe">e3b7f795dba3a300f3ef156039961925</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-10 09:30:43</sys_created_on>
+        <sys_id>e3b7bb95dba3a300f3ef15603996195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48677795dba3a300f3ef156039961962</sys_name>
+        <sys_package display_value="Take5" source="x_snc_take5">48685eb7db9fe340f3ef156039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Take5">48685eb7db9fe340f3ef156039961992</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_e3b7bb95dba3a300f3ef15603996195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-10 09:30:43</sys_updated_on>
+        <ui_parameter display_value="emp">abb7f795dba3a300f3ef156039961926</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

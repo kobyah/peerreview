@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="emp_feedback" max_length="40" name="x_snc_take5_emp_feedback" type="collection">
+        <element label="employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
+        <element label="Feedback Comments" max_length="4000" name="feedback" type="string"/>
+        <element label="Feedback By" max_length="32" name="feedback_by" reference="sys_user" type="reference"/>
+        <element choice="1" label="Feedsback" max_length="40" name="feedsback" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Great Job" value="1"/>
+                <element inactive_on_update="false" label="Happy To Help" value="3"/>
+                <element inactive_on_update="false" label="Lack The needed Skill" value="20"/>
+                <element inactive_on_update="false" label="Need to improve" value="10"/>
+                <element inactive_on_update="false" label="Team Player" value="2"/>
+                <element inactive_on_update="false" label="was unwilling to participate" value="30"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="employee"/>
+        </index>
+        <index name="index2">
+            <element name="feedback_by"/>
+        </index>
+    </element>
+</database>

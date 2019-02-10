@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="redirect to emp list">d828ff95dba3a300f3ef1560399619d4</button>
+        <button_table>x_snc_take5_emp_feedback</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="emp">abb7f795dba3a300f3ef156039961926</destination_ui_parameter>
+        <source_field>employee</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-10 09:54:03</sys_created_on>
+        <sys_id>5adc3b99dba3a300f3ef15603996191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abb7f795dba3a300f3ef156039961926</sys_name>
+        <sys_package display_value="Take5" source="x_snc_take5">48685eb7db9fe340f3ef156039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Take5">48685eb7db9fe340f3ef156039961992</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_5adc3b99dba3a300f3ef15603996191c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-10 09:54:03</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

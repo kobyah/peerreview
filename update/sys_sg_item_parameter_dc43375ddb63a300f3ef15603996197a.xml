@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>emp</name>
+        <parent>5b5eeb84db6f2740f3ef156039961949</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-10 09:11:06</sys_created_on>
+        <sys_id>dc43375ddb63a300f3ef15603996197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>emp</sys_name>
+        <sys_package display_value="Take5" source="x_snc_take5">48685eb7db9fe340f3ef156039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Take5">48685eb7db9fe340f3ef156039961992</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_dc43375ddb63a300f3ef15603996197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-10 09:11:06</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

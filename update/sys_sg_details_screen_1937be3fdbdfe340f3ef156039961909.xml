@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="myTeam">f2e8d2f7db9fe340f3ef1560399619c4</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">0937b27fdbdfe340f3ef156039961944</icon>
+        <item_view display_value="MyTeam detail item view">c537727fdbdfe340f3ef1560399619bd</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>5137b27fdbdfe340f3ef156039961974</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-05 12:57:53</sys_created_on>
+        <sys_id>1937be3fdbdfe340f3ef156039961909</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Take5" source="x_snc_take5">48685eb7db9fe340f3ef156039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Take5">48685eb7db9fe340f3ef156039961992</sys_scope>
+        <sys_update_name>sys_sg_details_screen_1937be3fdbdfe340f3ef156039961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-05 13:07:40</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1937be3fdbdfe340f3ef156039961909"/>
+</record_update>
