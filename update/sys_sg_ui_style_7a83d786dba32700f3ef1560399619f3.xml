@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_take5_emp_feedback">employeeISNOTEMPTY^EQ<item endquery="false" field="employee" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>employee</field>
+        <name>my team feedback - &gt; good job</name>
+        <style>{"background_color":"#43F024","font_color":"#24A3F0"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-12 14:49:51</sys_created_on>
+        <sys_id>7a83d786dba32700f3ef1560399619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my team feedback - &gt; good job</sys_name>
+        <sys_package display_value="Take5" source="x_snc_take5">48685eb7db9fe340f3ef156039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Take5">48685eb7db9fe340f3ef156039961992</sys_scope>
+        <sys_update_name>sys_sg_ui_style_7a83d786dba32700f3ef1560399619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-12 14:49:51</sys_updated_on>
+        <table>x_snc_take5_emp_feedback</table>
+    </sys_sg_ui_style>
+</record_update>
